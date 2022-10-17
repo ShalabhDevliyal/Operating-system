@@ -1,3 +1,3 @@
-# Operating-system
+# Operating-systems
 
 This Repo will hold Major Scheduling Algorithms of Operating system.
